@@ -1,2 +1,2 @@
 #!/bin/bash
-find -maxdepth 1 -type d -print | wc -c
+find -maxdepth 22 -type d -print | wc -c
