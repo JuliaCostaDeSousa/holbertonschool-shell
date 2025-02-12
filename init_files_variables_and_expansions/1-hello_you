@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello user" | $USER==$whoami
+echo "hello user" | grep -r $USER/{} 
