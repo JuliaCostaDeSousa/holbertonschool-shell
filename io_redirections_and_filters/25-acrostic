@@ -1,2 +1,2 @@
 #!/bin/bash
-cat accro | cut -c1 | tr -d '\n' | cut -f1
+cat | cut -c1 | tr -d '\n' | cut -f1
