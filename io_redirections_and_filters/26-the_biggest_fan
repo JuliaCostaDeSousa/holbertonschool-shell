@@ -1,2 +1,2 @@
 #!/bin/bash
-
+cat | sort -k 7 | cut -d$'\t' -f1 | head -n 11
